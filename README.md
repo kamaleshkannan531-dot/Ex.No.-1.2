@@ -1,42 +1,50 @@
-# Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+# Experiment 1.2: 2D Sketching and Drafting
 
-## AIM
- To sketch the given drawing with dimensions using fusion 360 tool.
- 
-## REQUIREMENTS
- 1. Autodesk fusion 360
- 2. Windows 10
- 3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
- 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
- 
- ## PROCEDURE
- 1.	Open new file and then select sketch icon.
- 2.	Select the plane for sketching. 
- 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
- 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
- 
- 5.	Use inspect feature to measure the dimensions of sketch.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232845-1608e574-732c-44b2-9921-39e920b70e2e.png)
- 
- 6.	After finishing the sketch use finish sketch option to finalize the sketch.
- ![image](https://user-images.githubusercontent.com/113594316/198232907-8275f39c-9031-4cf4-b0c4-8eb568e477ab.png)
- 7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
- 
- ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
- 
- 
- ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+## Aim
+To draw the given sketch with correct dimensions and create a 2D sheet using Autodesk Fusion 360.
 
- ## OUTPUT
- 
- 
- ## RESULT
- Thus the given sketch is drawn and drafted using fusion 360 tool.
+
+## What You Need (Requirements)
+  **Software:** Autodesk Fusion 360
+  **Operating System:** Windows 10
+  **RAM:** 16 GB (1 GB or more graphics recommended)
+  **Internet:** 2.5 Mbps download / 500 Kbps upload
+
+
+## Tools Used
+  **To Draw:** Line, Circle, Arc, Rectangle, Polygon
+  **To Edit:** Trim (cut extra lines), Mirror, Move
+  **To Check:** Dimension tool, Inspect tool
+
+
+## Step-by-Step Procedure
+
+1. **Open Fusion 360:** Open a new blank file and click on the **Create Sketch** icon.
+2. **Pick a Plane:** Choose any flat surface/plane to start drawing (like the Top or Front plane).
+3. **Draw the Outline:** Use drawing tools like Line, Circle, Arc, and Rectangle to sketch the shape.
+4. **Clean up the Sketch:** Use tools like **Trim** to cut unwanted lines, or **Mirror** / **Move** to adjust the parts.
+5. **Check Measurements:** Use the **Dimension** and **Inspect** tools to measure and make sure all sizes are correct.
+   *<img width="1203" height="712" alt="Screenshot 2026-10-13 200934" src="https://github.com/user-attachments/assets/afe04f9a-07ae-4ffa-adf9-5281120a29d6" />
+
+
+6. **Finish Sketch:** Once the drawing is complete, click the **Finish Sketch** button.
+   *<img width="818" height="659" alt="Screenshot 2026-10-13 201118" src="https://github.com/user-attachments/assets/f7408430-12c9-4806-9a26-7551e588648c" />
+
+
+
+7. **Create Drawing Sheet:** Switch from Design mode to Drawing mode (`File > New Drawing > From Design`) to place the sketch on an **ISO standard** sheet.
+   <img width="1080" height="757" alt="{7FB55040-B353-4CA2-8FF6-53CA417FBEBE}" src="https://github.com/user-attachments/assets/258d764e-602d-4bb9-857e-f1759c71c4a9" />
+
+
+
+## Given Sketch
+<img width="458" height="424" alt="Screenshot 2026-10-13 201944" src="https://github.com/user-attachments/assets/a735afa3-f77a-4d9c-9d39-645b11ad66ab" />
+
+
+## Output
+<img width="795" height="660" alt="Screenshot 2026-10-13 201134" src="https://github.com/user-attachments/assets/9699c6a2-173f-4be2-827c-e872dbfc2349" />
+
+
+
+## Result
+Thus, the given sketch was successfully drawn and drafted using Autodesk Fusion 360.
